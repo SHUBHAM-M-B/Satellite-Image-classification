@@ -1,4 +1,4 @@
- `README.md` file reflecting **Satellite Image Classification** project:
+
 
 ---
 
