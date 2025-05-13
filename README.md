@@ -2,7 +2,7 @@
 
 ---
 
-# 🌍 Satellite Image Classification with Deep Learning
+# 🌍 Satellite Image Classification using Deep Learning
 
 A web-based deep learning application to classify satellite images into 10 land use and land cover categories using a pre-trained VGG16 model. The project offers:
 
